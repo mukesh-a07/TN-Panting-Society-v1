@@ -1,0 +1,1 @@
+/* Animation hooks are initialized from main.js. */
